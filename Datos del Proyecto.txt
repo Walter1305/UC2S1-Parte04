@@ -1,0 +1,21 @@
+Integrantes
+-	Nombres del Estudiante 01:
+	Casas Parisaca Diego
+	Git Hub:
+	https://github.com/CasasDiego/UC2S1-PARTE01.git
+
+-	Nombres del Estudiante 02
+	Tomasto Hurtado Johan 
+	Git Hub:
+	https://github.com/JohanJesusTH/UC2S1-Parte02
+
+-	Nombres del Estudiante 03
+	Fernadez Sotelo Paolo Jeanpier
+	Git Hub:
+	https://github.com/FerSo22/UC2S1-Parte03.git
+	
+
+-	Nombres del Estudiante 04
+	Corrales Luque Walter Enrique
+	Git Hub:
+	https://github.com/Walter1305/UC2S1-Parte04.git
